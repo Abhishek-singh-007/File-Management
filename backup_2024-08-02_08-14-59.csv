@@ -1,0 +1,13 @@
+id,name,email,username,address,role
+3,"John Doe",john.doe@example.com,root,"123 Main St",USER
+4,"Jane Smit",jane.smith@example.com,root,"456 Elm St",ADMIN
+5,"Michael Johnson",michael.j@example.com,root,"789 Pine St",USER
+6,"Emily Davis",emily.d@example.com,root,"101 Oak St",ADMIN
+7,"David Brown",david.b@example.com,root,"202 Maple St",USER
+8,"Sarah Wilson",sarah.w@example.com,root,"303 Birch St",USER
+9,"Daniel Lee",daniel.l@example.com,root,"404 Cedar St",ADMIN
+10,"Jessica Martinez",jessica.m@example.com,root,"505 Walnut St",USER
+11,"Paul Garcia",paul.g@example.com,root,"606 Ash St",USER
+12,"Laura Clark",laura.c@example.com,root,"707 Cherry St",ADMIN
+13,"Chris Evans",Chris.e@example.com,root,"666, Wall st",USER
+14,"Peter Parker",peter.p@example.com,root,"323, China Town",ADMIN
